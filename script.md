@@ -91,7 +91,10 @@ Piaget, decía que la inteligencia es una mezcla entre adaparse al mundo y adapt
 O sea, ni el extremo de mi suegra ni el del borracho.
 O peor aún, eso que no tocan nada para no contaminar (e igual consumen el caballo de electricidad como todos nosotros).
 
-[pausa]
+Séneca, hace dos mil años, explicaba que la virtud es "el punto medio".
+Prudencia también le llaman los filósofos.
+
+[pausa, tomar agua]
 
 
 # Link

@@ -18,12 +18,12 @@ Hay 83 slides, 2007. Marcelo.
 Kahneman. Me gustaban 83 slides de nuclear.
 Resulta que no. Sigo teniéndolos. Consciente.
 
-Energía nuclear. Energía. ¿Qué es?
+Entonces energía nuclear. 1º parte: energía. ¿Qué es?
 Feynman. Útil. Consumo. 500W-1000W. Sumar otros. ¿Ven lo útil?
 Tenemos un caballo. ¿De dónde? Recursos naturales.
 Imaginación. Esquema. Recursos, energía, desechos.
 
-[pausa]
+[pausa, tomar agua]
 
 Historia del borracho. Tati, QEPD. Agua de fideos.
 Piaget. Extremos. Consumen el caballo igual.
