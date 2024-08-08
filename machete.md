@@ -27,6 +27,9 @@ Imaginación. Esquema. Recursos, energía, desechos.
 
 Historia del borracho. Tati, QEPD. Agua de fideos.
 Piaget. Extremos. Consumen el caballo igual.
+Séneca, 200 años, explicaba que la virtud es "el punto medio".
+Prudencia también le llaman los filósofos.
+
 
 
 ## Link
@@ -54,10 +57,6 @@ El cuento es así. Curva $B/A$ vs. $Z$.
 Me voy a ocupar de la fisión.
 
 ## Desarrollo
-
-U238 muerto de risa por Myr hasta que le toque decaer.
-Pequeña chance fisión, va a decaer $\alpha$.
-No vamos a ganar energía si nos quedamos mirando.
 
 Filosofía: ¿cómo hacemos como decía mi suegra y adaptamos el mundo a nosotros?
 Entender cómo está hecha la naturaleza para que se nos ocurran ideas.
@@ -89,7 +88,6 @@ Físiles y fisionables. La mayoría son como el 238.
 Detalle de esta "naturaleza".
 Dos pedazos grandotes y 2 o 3 neutrones sueltos.
 Detalle para aprovechar.
-
 Dibujito: nace, fuga/absorbe, combustible/otro, no/sí
 
 Detalles cuántica. Probabilidades. 
@@ -112,7 +110,7 @@ No es tan bueno pero no absorbe. p+n es estable.
 
 Unat, ¿que cuánto tiene de 235?
 Unat necesitamos D$_2$O. H$_2$O, U enriq.
-Así es el universo.
+Así es el universo. Constante de Planck, Gravitación de Newton.
 ¡Ojo! ¿Si fuese al revés? Reactor "natural".
 Es filosófico, como la canción de Manuel Darío. 
 
@@ -154,9 +152,9 @@ Nos empecinamos en convencer a los otros.
 Llámenlo sesgo de confirmación, sesgo de disponibilidad, efecto halo, etc.
 
 Ejemplo. El 9/11 murieron 2500 por bin laden.
-Pero los 3 meses siguientesm, más por auto que por avión.
+Pero los 3 meses siguientes, más por auto que por avión.
 
-Terminemos con una pregunta técnica.
+Termino con una pregunta técnica.
 ¿Por qué las centrales tienen la potencia que tienen y no tienen 10 veces más?
 1 mol = infinito.
 ¿Centrales más grandes?
@@ -170,7 +168,9 @@ Curva de Nukiyama.
 Flujo crítico de calor.
 ¿Les suena?
 
-Piaget. Virtuosa mezcla.
+
+
+Piaget y séneca. Prudente y virtuosa mezcla.
 Muchas gracias.
 
 ## Preguntas
